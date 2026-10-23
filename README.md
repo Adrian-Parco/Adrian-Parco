@@ -2,7 +2,7 @@
 
 # Adrian Parco
 
-Full-stack developer building web apps and automation workflows.  
+MA Application Developer @ AUMOVIO  
 Based in the Philippines · BS Computer Science
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-adrianparco.vercel.app-0D1117?style=flat-square&logo=vercel&logoColor=white)](https://adrianparco.vercel.app)
